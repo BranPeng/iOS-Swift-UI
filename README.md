@@ -14,5 +14,7 @@ Swift UI控件
 |[No.10 expanding-collection](https://github.com/Ramotion/expanding-collection)<br>*MaterialDesign 风格的扩展式卡片设计*|[No.11 DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)<br>*弹性的下拉刷新控件*|[No.12 Persei](https://github.com/Yalantis/Persei)<br>*适用于 UITableView / UICollectionView / UIScrollView 的动态顶部菜单栏控件*|
 |![image](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)|![image](https://camo.githubusercontent.com/072ef03302b2ba16605c71f8e5e7a19bb700e149/687474703a2f2f692e696d6775722e636f6d2f4a556c514839462e676966)|![image](https://raw.githubusercontent.com/BeauNouvelle/FaceAware/master/Images/largeExample.jpg)|
 |[No.13 PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup)<br>*下拉刷新顺便煮个汤吧*|[No.14 Instructions](https://github.com/ephread/Instructions)<br>*一款能快速创建引导流程的控件*|[No.15 FaceAware](https://github.com/BeauNouvelle/FaceAware)<br>*FaceAware 能使UIImageView能够聚焦图像中的面部*|
+|![image](https://cloud.githubusercontent.com/assets/6205705/15713434/b6c8867e-2816-11e6-8b90-cd82caea28dd.gif)|![image](https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png)|![image](https://github.com/eBay/NMessenger/blob/master/Assets/NMessenger-Overview.png)|
+|[No.16 JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)<br>*100%可自定义的日历控件*|[No.17 DateTimePicker](https://github.com/itsmeichigo/DateTimePicker)<br>*一款精致的日期选择控件*|[No.18 NMessenger](https://github.com/eBay/NMessenger)<br>*基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件*|
 
 
