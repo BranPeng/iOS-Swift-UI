@@ -11,6 +11,5 @@ Swift UI控件
 ### [No.2 PagingMenuController](https://github.com/kitasuke/PagingMenuController)
 提供多种样式的分页切换控件
 
-![image](https://raw.githubusercontent.com/wiki/kitasuke/PagingMenuController/images/demo4.gif)
-|[XLDouYinLoading](https://github.com/mengxianliang/XLDouYinLoading)<br>*抖音加载动画*|||
-|![image](https://github.com/mengxianliang/XLFoldClock/blob/master/GIF/1.gif)|
+|![image](https://raw.githubusercontent.com/wiki/kitasuke/PagingMenuController/images/demo4.gif)<br>|![image](https://raw.githubusercontent.com/wiki/kitasuke/PagingMenuController/images/demo2.gif)|
+
